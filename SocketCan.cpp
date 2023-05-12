@@ -10,7 +10,7 @@
 #include <linux/can/raw.h>
 
 #define FRAME_ID 0x555
-#define FRAME_DATA "Hello"
+ #define FRAME_DATA " "
 
 int main() {
     // Create CAN socket
