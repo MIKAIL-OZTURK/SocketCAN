@@ -4,7 +4,5 @@ accessing CAN devices.
 
 ### Testing the Program
 
-
-![SocketCan](https://github.com/MIKAIL-OZTURK/SocketCAN/assets/75627147/271bf585-92af-49ea-b111-292dfd2cd935)
-
+![SocketCan](https://github.com/MIKAIL-OZTURK/SocketCAN/assets/75627147/1fe3723a-d73d-4d66-992e-1ce178ed0127)
 
